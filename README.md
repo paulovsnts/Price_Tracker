@@ -117,7 +117,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ### 👤 Contato
 
-Seu Nome - [@dev_paulovsnts]((https://x.com/dev_paulovsnts)) 
+Paulo V Santos - [@dev_paulovsnts](https://x.com/dev_paulovsnts) 
 
 Link do Projeto: [https://github.com/paulovsnts/Price_Tracker](https://www.google.com/search?q=https://github.com/paulovsnts/Price_Tracker)
 
